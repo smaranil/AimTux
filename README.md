@@ -4,6 +4,10 @@
 
 Want to chat or play with other AimTux users? Join us on Gitter!
 
+## DETECTED
+
+Since 06/06/2017 AimTux is detected. It is not recommend to use this as it it 100% detected now and will get you instant ban 
+
 ## What is AimTux?
 
 AimTux is a fully featured internal hack for *CounterStrike : Global Offensive* written in C++.
